@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+#auth-container {
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+#text{
+    border: 1px solid black;
+    margin: 25px;
+    border-radius: 10px;
+}
